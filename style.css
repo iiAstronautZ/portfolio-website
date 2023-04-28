@@ -85,6 +85,7 @@
     .sidePic img{
         margin-top: 50px;
         margin-bottom: 50px;
+        margin-right: 150px;
         width: 150%;
         border-radius: 15px;
     }
@@ -105,6 +106,7 @@
     }
     .about-col-1 img{
         width: 100%;
+        margin-left: 100px;
         border-radius: 15px;
     }
     .about-col-2 p{

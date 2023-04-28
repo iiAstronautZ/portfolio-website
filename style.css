@@ -185,6 +185,10 @@
         color: #0000ff;
         padding: 5px 0;
     }
+    .video iframe{
+        width: 100%;
+        margin: 50px auto;
+    }
     .layer{
         width: 100%;
         height: 0%;
